@@ -10,7 +10,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Isaac-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="Isaac-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg">
+<img align="center" alt="Isaac-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="Isaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 <!--
 **isaaclyra132/isaaclyra132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
