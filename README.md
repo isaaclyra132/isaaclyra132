@@ -1,4 +1,5 @@
-## Graaaaande visitante, eu sou o Isaac de Lyra, seja sempre bem-vindo! 🥰
+## Graaaaande visitante, eu sou o Isaac de Lyra, seja sempre bem-vindo! 🥰 <img src="https://komarev.com/ghpvc/?username=isaaclyra132&color=green" alt="isaaclyra132" /> 
+
 
 - 🔭 Hoje trabalho com Data Science na UFRN
 - 🌱 Estou aprendendo Python e programação embarcada
