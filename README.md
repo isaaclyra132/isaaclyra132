@@ -1,4 +1,4 @@
-### Graaaaande visitante, eu sou o Isaac de Lyra, seja sempre bem-vindo! 🥰
+## Graaaaande visitante, eu sou o Isaac de Lyra, seja sempre bem-vindo! 🥰
 
 - 🔭 Hoje trabalho com Data Science na UFRN
 - 🌱 Estou aprendendo Python
@@ -19,7 +19,7 @@
 <img align="center" alt="Isaac-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="center" alt="Isaac-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
-<img align="right" alt="Isaac-yoda" src="https://cdn.discordapp.com/attachments/858552635488206849/870755163416190976/ff1c22389a1046ee6de0c0c4ef2c55d3.gif">
+<!--<img align="right" alt="Isaac-yoda" src="https://cdn.discordapp.com/attachments/858552635488206849/870756867276697670/ff1c22389a1046ee6de0c0c4ef2c55d3_1.gif"> -->
 </div>
   
 ##
