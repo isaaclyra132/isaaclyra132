@@ -1,14 +1,16 @@
 ### Graaaaande visitante, eu sou o Isaac de Lyra, seja sempre bem-vindo! 🥰
 
-- 🔭 Hoje trabalho com Data Science
+- 🔭 Hoje trabalho com Data Science na UFRN
 - 🌱 Estou aprendendo Python
 
 <div>
   <a href="https://github.com/isaaclyra132">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaaclyra132&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclyra132&layout=compact&langs_count=5&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isaaclyra132&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclyra132&layout=compact&langs_count=5&theme=tokyonight"/>
+</div>
+
 <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Isaac-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 <!--
 **isaaclyra132/isaaclyra132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
