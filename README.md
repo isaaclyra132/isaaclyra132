@@ -2,19 +2,36 @@
 
 - 🔭 Hoje trabalho com Data Science na UFRN
 - 🌱 Estou aprendendo Python
+- 
 
 <div>
   <a href="https://github.com/isaaclyra132">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isaaclyra132&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclyra132&layout=compact&langs_count=5&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=isaaclyra132&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclyra132&layout=compact&langs_count=5&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
+<img align="center" alt="Isaac-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 <img align="center" alt="Isaac-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg">
 <img align="center" alt="Isaac-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="Isaac-flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 <img align="center" alt="Isaac-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img align="center" alt="Isaac-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img align="center" alt="Isaac-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+
+<img align="right" alt="Isaac-yoda" src="https://i.pinimg.com/originals/ff/1c/22/ff1c22389a1046ee6de0c0c4ef2c55d3.gif">
 </div>
+  
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+ 
 <!--
 **isaaclyra132/isaaclyra132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
