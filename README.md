@@ -3,9 +3,9 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=isaaclyra132&color=green" alt="isaaclyra132" /> 
 
 
-- 🔭 Hoje trabalho com Data Science na UFRN
-- 🌱 Estou aprendendo Python e programação embarcada
-- 💬 Sou graduando em Engenharia Mecatrônica e me interesso por robótica e automação
+- 🔭 Hoje trabalho com desenvolvimento web/mobile na UFRN
+- 🌱 Estou aprendendo JS, CSS, HTML, React(JS e Native) e programação embarcada
+- 💬 Sou graduando em Engenharia e me interesso por robótica e automação
 
 <div>
   <a href="https://github.com/isaaclyra132">
