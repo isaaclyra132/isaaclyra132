@@ -3,8 +3,8 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=isaaclyra132&color=green" alt="isaaclyra132" /> 
 
 
-- 🔭 Hoje trabalho com desenvolvimento web/mobile na UFRN
-- 🌱 Estou aprendendo JS, CSS, HTML, React(JS e Native) e programação embarcada
+- 🔭 Hoje trabalho em uma pesquisa na UFRN relacionada a Internet das coisas, em que sou responsável pela parte de desenvolvimento web/mobile.
+- 🌱 Estou aprendendo JS, CSS, HTML, React(JS e Native) e programação embarcada.
 - 💬 Sou graduando em Engenharia e me interesso por robótica e automação
 
 <div>
