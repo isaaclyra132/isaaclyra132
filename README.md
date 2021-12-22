@@ -5,7 +5,7 @@
 
 - 🔭 Hoje trabalho em uma pesquisa na UFRN relacionada a Internet das coisas, em que sou responsável pela parte de desenvolvimento web/mobile.
 - 🌱 Estou aprendendo JS, CSS, HTML, React(JS e Native), NodeJS e programação embarcada.
-- 💬 Sou graduando em Engenharia e me interesso por robótica, automação e IoT.
+- 💬 Sou graduando em Engenharia e me interesso por desenvolvimento de software e IoT.
 
 <div>
   <a href="https://github.com/isaaclyra132">
