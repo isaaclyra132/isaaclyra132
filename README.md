@@ -1,6 +1,6 @@
 ## Graaaaande visitante, eu sou o Isaac de Lyra, seja sempre bem-vindo! 🥰 
 
-<img align="center" src="https://komarev.com/ghpvc/?username=isaaclyra132&color=green" alt="isaaclyra132" /> 
+<!--<img align="center" src="https://komarev.com/ghpvc/?username=isaaclyra132&color=green" alt="isaaclyra132" /> -->
 
 
 - 🔭 Hoje trabalho em uma pesquisa na UFRN relacionada a Internet das coisas, em que sou responsável pela parte de desenvolvimento web/mobile.
