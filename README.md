@@ -12,12 +12,12 @@
   <img align="center" alt="Isaac-HTML" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Isaac-CSS" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Isaac-JS" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Isaac-React" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Isaac-NodeJS" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <!--img align="center" alt="Isaac-React" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /-->
+  <!--img align="center" alt="Isaac-NodeJS" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /-->
   <img align="center" alt="Isaac-C" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Isaac-Python" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Isaac-PostgreSQL" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Isaac-MongoDB" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <!--img align="center" alt="Isaac-Python" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /-->
+  <!--img align="center" alt="Isaac-PostgreSQL" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /-->
+  <!--img align="center" alt="Isaac-MongoDB" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /-->
   
   <img align="right" alt="Isaac-yoda" src="https://media.tenor.com/images/370476d66f4ca25b41229bc78ac4a284/tenor.gif"> 
 </div>
