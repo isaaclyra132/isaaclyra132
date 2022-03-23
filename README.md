@@ -2,7 +2,7 @@
 
 <!--<img align="center" src="https://komarev.com/ghpvc/?username=isaaclyra132&color=green" alt="isaaclyra132" /> -->
 
-- 💬 Sou graduando em Engenharia de Computação na Universidade Federal do Rio Grande do Norte (UFRN) e me interesso por desenvolvimento de software e aplicações IoT.
+- 💬 Sou graduando em Engenharia de Computação na Universidade Federal do Rio Grande do Norte (UFRN) e me interesso por desenvolvimento de softwares e aplicações IoT.
 - 🔭 Hoje faço parte de uma Iniciação Científica na UFRN relacionada a Internet das coisas, em que sou responsável pela parte de desenvolvimento web/mobile.
 - 🌱 Estou estudando JS, CSS, HTML, React(JS e Native), NodeJS e programação embarcada.
 - 🎯 Meu atual objetivo é atingir o nível Junior das tecnologias que ando estudando para que assim eu possa me introduzir no mercado de trabalho.
