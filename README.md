@@ -19,7 +19,7 @@
   <!--img align="center" alt="Isaac-PostgreSQL" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /-->
   <!--img align="center" alt="Isaac-MongoDB" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /-->
   
-  <img align="right" width="40" alt="Isaac-yoda" src="https://rollingstone.uol.com.br/media/uploads/sideshow-collectibles-has-a-life-sized-baby-yoda.jpg"> 
+  <img align="right" width="400" alt="Isaac-yoda" src="https://rollingstone.uol.com.br/media/uploads/sideshow-collectibles-has-a-life-sized-baby-yoda.jpg"> 
 </div>
   
 ##
