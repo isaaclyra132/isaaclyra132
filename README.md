@@ -19,7 +19,7 @@
   <!--img align="center" alt="Isaac-PostgreSQL" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /-->
   <!--img align="center" alt="Isaac-MongoDB" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /-->
   
-  <img align="right" width="200" alt="Isaac-yoda" src="https://pure.wallpapergk.com/download/baby_yoda_with_cup_grogu_star_wars-1152x864.jpg"> 
+  <img align="right" width="160" alt="Isaac-yoda" src="https://pure.wallpapergk.com/download/baby_yoda_with_cup_grogu_star_wars-1152x864.jpg"> 
 </div>
   
 ##
